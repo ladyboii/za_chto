@@ -18,3 +18,9 @@ header {
     padding: 10px;
 
 }
+.main {
+    width: 61%;
+    height: 600px;
+    background: black;
+
+}
